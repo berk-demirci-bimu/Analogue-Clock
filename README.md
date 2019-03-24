@@ -1,5 +1,4 @@
-# Analogue-Clock
-Simple Analog Clock by using Applets in Java
+Simple Analog Clock
 
 # A screenshot for this application
 
